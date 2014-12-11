@@ -1,0 +1,5 @@
+bent 190 45
+ole 180 42
+henrik 185 44
+anne-mette 170 38
+stig 187 41
